@@ -1,0 +1,93 @@
+---
+id: hgss1-27
+name: Persian
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '80'
+types:
+- Colorless
+evolvesFrom: Meowth
+attacks:
+- name: Sharpen Claws
+  cost:
+  - Colorless
+  convertedEnergyCost: 1
+  damage: ''
+  text: Flip 3 coins. For each heads, discard a card from your opponent's hand without
+    looking.
+- name: Sneaky Attack
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: 30+
+  text: If Persian has any Darkness Energy attached to it, this attack does 30 damage
+    plus 30 more damage.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '27'
+artist: Kagemaru Himeno
+rarity: Rare
+flavorText: Its lithe muscles allow it to walk without making a sound. It attacks
+  in an instant.
+nationalPokedexNumbers:
+- 53
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/27.png
+  large: https://images.pokemontcg.io/hgss1/27_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-27
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.4
+      mid: 1.23
+      high: 4.0
+      market: 1.62
+      directLow: 0.65
+    reverseHolofoil:
+      low: 0.74
+      mid: 1.01
+      high: 2.51
+      market: 1.39
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-27
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.8
+    lowPrice: 0.1
+    trendPrice: 0.87
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.3
+    reverseHoloTrend: 0.92
+    lowPriceExPlus: 0.49
+    avg1: 1.11
+    avg7: 0.88
+    avg30: 0.74
+    reverseHoloAvg1: 1.99
+    reverseHoloAvg7: 1.12
+    reverseHoloAvg30: 1.26

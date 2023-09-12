@@ -1,0 +1,94 @@
+---
+id: hgss1-2
+name: Azumarill
+supertype: Pokémon
+subtypes:
+- Stage 1
+hp: '90'
+types:
+- Water
+evolvesFrom: Marill
+attacks:
+- name: Waterfall
+  cost:
+  - Water
+  - Water
+  convertedEnergyCost: 2
+  damage: '40'
+  text: ''
+- name: Bubblebeam
+  cost:
+  - Water
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+weaknesses:
+- type: Lightning
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '2'
+artist: Kouki Saitou
+rarity: Rare Holo
+flavorText: When it plays in water, it rolls up its elongated ears to prevent their
+  insides from getting wet.
+nationalPokedexNumbers:
+- 184
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/2.png
+  large: https://images.pokemontcg.io/hgss1/2_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-2
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 1.11
+      mid: 1.99
+      high: 3.59
+      market: 5.13
+      directLow: 1.97
+    reverseHolofoil:
+      low: 1.31
+      mid: 1.75
+      high: 4.55
+      market: 2.08
+      directLow: 1.43
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-2
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 2.44
+    lowPrice: 0.1
+    trendPrice: 2.88
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.92
+    reverseHoloLow: 0.4
+    reverseHoloTrend: 3.43
+    lowPriceExPlus: 0.8
+    avg1: 1.99
+    avg7: 3.08
+    avg30: 2.82
+    reverseHoloAvg1: 0.89
+    reverseHoloAvg7: 3.74
+    reverseHoloAvg30: 3.28

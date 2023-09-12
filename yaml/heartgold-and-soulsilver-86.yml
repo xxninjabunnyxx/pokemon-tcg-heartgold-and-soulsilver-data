@@ -1,0 +1,92 @@
+---
+id: hgss1-86
+name: Totodile
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Water
+evolvesTo:
+- Croconaw
+attacks:
+- name: Gnaw
+  cost:
+  - Water
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Wave Splash
+  cost:
+  - Water
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Grass
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '86'
+artist: kawayoo
+rarity: Common
+flavorText: Its powerful, well-developed jaws are capable of crushing anything. Even
+  its trainer must be careful.
+nationalPokedexNumbers:
+- 158
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/86.png
+  large: https://images.pokemontcg.io/hgss1/86_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-86
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.25
+      mid: 0.44
+      high: 1.0
+      market: 0.55
+      directLow: 0.15
+    reverseHolofoil:
+      low: 2.49
+      mid: 3.2
+      high: 11.8
+      market: 3.13
+      directLow: 3.19
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-86
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.23
+    lowPrice: 0.02
+    trendPrice: 0.31
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 1.49
+    reverseHoloTrend: 3.76
+    lowPriceExPlus: 0.02
+    avg1: 0.15
+    avg7: 0.16
+    avg30: 0.28
+    reverseHoloAvg1: 2.49
+    reverseHoloAvg7: 2.83
+    reverseHoloAvg30: 2.59

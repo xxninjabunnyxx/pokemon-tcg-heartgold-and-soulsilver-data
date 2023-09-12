@@ -1,0 +1,93 @@
+---
+id: hgss1-24
+name: Lapras
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '90'
+types:
+- Water
+attacks:
+- name: Ice Beam
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: Flip a coin. If heads, the Defending Pokémon is now Paralyzed.
+- name: Ice Blade
+  cost:
+  - Water
+  - Water
+  convertedEnergyCost: 2
+  damage: ''
+  text: Choose 1 of your opponent's Pokémon. This attack does 30 damage to that Pokémon.
+    (Don't apply Weakness and Resistance for Benched Pokémon.)
+weaknesses:
+- type: Metal
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '24'
+artist: Suwama Chiaki
+rarity: Rare
+flavorText: They have gentle hearts. Because they rarely fight, many have been caught.
+  Their number has dwindled.
+nationalPokedexNumbers:
+- 131
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/24.png
+  large: https://images.pokemontcg.io/hgss1/24_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-24
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 1.45
+      mid: 2.24
+      high: 3.95
+      market: 2.71
+      directLow: 1.43
+    reverseHolofoil:
+      low: 4.99
+      mid: 5.0
+      high: 5.2
+      market: 4.89
+      directLow: 3.0
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-24
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 1.66
+    lowPrice: 0.28
+    trendPrice: 2.09
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 2.27
+    reverseHoloLow: 0.5
+    reverseHoloTrend: 4.42
+    lowPriceExPlus: 0.8
+    avg1: 2.0
+    avg7: 1.7
+    avg30: 1.63
+    reverseHoloAvg1: 0.9
+    reverseHoloAvg7: 4.47
+    reverseHoloAvg30: 4.33

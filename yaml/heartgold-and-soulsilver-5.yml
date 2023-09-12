@@ -1,0 +1,92 @@
+---
+id: hgss1-5
+name: Hitmontop
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Fighting
+attacks:
+- name: Triple Kick
+  cost:
+  - Fighting
+  convertedEnergyCost: 1
+  damage: 20×
+  text: Flip 3 coins. This attack does 20 damage times the number of heads.
+- name: Close Combat
+  cost:
+  - Fighting
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '60'
+  text: During your opponent's next turn, any damage done to Hitmontop by attacks
+    is increased by 20 (after applying Weakness and Resistance).
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '5'
+artist: Ken Sugimori
+rarity: Rare Holo
+flavorText: It launches kicks while spinning. If it spins at high speed, it may bore
+  its way into the ground.
+nationalPokedexNumbers:
+- 237
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/5.png
+  large: https://images.pokemontcg.io/hgss1/5_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-5
+  updatedAt: 2023/09/12
+  prices:
+    holofoil:
+      low: 2.69
+      mid: 3.45
+      high: 13.0
+      market: 3.72
+      directLow: 
+    reverseHolofoil:
+      low: 1.9
+      mid: 2.7
+      high: 14.95
+      market: 5.47
+      directLow: 
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-5
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 3.34
+    lowPrice: 0.32
+    trendPrice: 2.92
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 5.0
+    reverseHoloLow: 0.45
+    reverseHoloTrend: 2.97
+    lowPriceExPlus: 0.5
+    avg1: 0.6
+    avg7: 3.21
+    avg30: 2.92
+    reverseHoloAvg1: 5.0
+    reverseHoloAvg7: 3.21
+    reverseHoloAvg30: 1.75

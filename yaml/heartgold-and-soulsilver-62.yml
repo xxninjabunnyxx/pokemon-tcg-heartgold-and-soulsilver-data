@@ -1,0 +1,94 @@
+---
+id: hgss1-62
+name: Drowzee
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '60'
+types:
+- Psychic
+evolvesTo:
+- Hypno
+attacks:
+- name: Sleep Inducer
+  cost:
+  - Psychic
+  convertedEnergyCost: 1
+  damage: ''
+  text: Switch the Defending Pokémon with 1 of your opponent's Benched Pokémon. The
+    new Defending Pokémon is now Asleep.
+- name: Gentle Slap
+  cost:
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Psychic
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+convertedRetreatCost: 2
+set:
+  id: hgss1
+  name: HeartGold & SoulSilver
+  series: HeartGold & SoulSilver
+  printedTotal: 123
+  total: 124
+  legalities:
+    unlimited: Legal
+  ptcgoCode: HS
+  releaseDate: 2010/02/10
+  updatedAt: 2018/03/04 10:35:00
+  images:
+    symbol: https://images.pokemontcg.io/hgss1/symbol.png
+    logo: https://images.pokemontcg.io/hgss1/logo.png
+number: '62'
+artist: Masakazu Fukuda
+rarity: Common
+flavorText: It remembers every dream it eats. It rarely eats the dreams of adults
+  because children's are much tastier.
+nationalPokedexNumbers:
+- 96
+legalities:
+  unlimited: Legal
+images:
+  small: https://images.pokemontcg.io/hgss1/62.png
+  large: https://images.pokemontcg.io/hgss1/62_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/hgss1-62
+  updatedAt: 2023/09/12
+  prices:
+    normal:
+      low: 0.19
+      mid: 0.33
+      high: 1.12
+      market: 0.38
+      directLow: 0.2
+    reverseHolofoil:
+      low: 0.5
+      mid: 1.55
+      high: 2.0
+      market: 1.24
+      directLow: 0.51
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/hgss1-62
+  updatedAt: 2023/09/12
+  prices:
+    averageSellPrice: 0.16
+    lowPrice: 0.02
+    trendPrice: 0.15
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.8
+    reverseHoloLow: 0.25
+    reverseHoloTrend: 0.59
+    lowPriceExPlus: 0.02
+    avg1: 0.18
+    avg7: 0.16
+    avg30: 0.16
+    reverseHoloAvg1: 0.8
+    reverseHoloAvg7: 0.65
+    reverseHoloAvg30: 0.59
